@@ -1,3 +1,3 @@
-# lab-a1-repository
+# LAB-A1-repository
 demo repository <br>
 jnnc shivamoga
